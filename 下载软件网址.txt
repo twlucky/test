@@ -1,0 +1,14 @@
+JetBrains官网/idea下载网址（写java代码的，和eclipse一个性质）：
+https://www.jetbrains.com/
+
+Git下载网址：
+https://git-scm.com/downloads
+
+Git研发管理系统：注册登录
+1.CODING
+https://coding.net/
+2.Gitee码云
+https://gitee.com/
+
+git可视化工具下载tortoisegit：
+https://tortoisegit.org/download/
